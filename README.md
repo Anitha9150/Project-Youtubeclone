@@ -45,8 +45,8 @@ A full-stack YouTube Clone built using the MERN stack (MongoDB, Express, React, 
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/youtube-clone.git
-cd youtube-clone
+git clone https://github.com/Anitha9150/Project-Youtubeclone.git
+
 
 # Install backend dependencies
 cd Backend
@@ -82,3 +82,10 @@ https://drive.google.com/file/d/1nYGDPdINhtyaWlGmeqv6YWBvLO8HykJ7/view?usp=drive
     React.js
 
     JWT Authentication
+
+
+    Backend Deploy
+    https://project-youtubeclone-backend.onrender.com
+    
+    Frontend Depoly
+    project-youtubeclone-eight.vercel.app
