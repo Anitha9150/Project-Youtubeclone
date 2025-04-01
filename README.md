@@ -2,38 +2,38 @@
 
 A full-stack YouTube Clone built using the MERN stack (MongoDB, Express, React, Node.js). This project replicates core YouTube features like user authentication, video uploads, likes/dislikes, comments, and search functionality.
 
-## 🚀 Features
+## Features
 
-### ✅ User Authentication
+### User Authentication
 - User registration and login with JWT authentication.
 - Google OAuth integration for quick login.
 - Protected routes for authenticated users.
 
-### 🎥 Video Management
+### Video Management
 - Upload, update, and delete videos.
 - Display video details including title, thumbnail, description, views, likes, dislikes, and comments.
 
-### 🔍 Search & Filter
+### Search & Filter
 - Search videos by title using a search bar.
 - Filter videos based on categories.
 
-### 👍 Like & Dislike
+###  Like & Dislike
 - Like or dislike videos.
 - Toggle between like and dislike states.
 
-### 💬 Comments
+###  Comments
 - Add, edit, and delete comments on videos.
 - Display all comments related to a video.
 
-### 📺 Channel Management
+### Channel Management
 - Create and manage a channel after signing in.
 - View all videos uploaded by a channel.
 - Edit or delete channel videos.
 
-### 📱 Responsive Design
+###  Responsive Design
 - Fully responsive UI for desktop and mobile.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, React Router, Tailwind CSS
 - **Backend:** Node.js, Express.js
@@ -43,7 +43,7 @@ A full-stack YouTube Clone built using the MERN stack (MongoDB, Express, React, 
 
 
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```sh
 git clone https://github.com/Anitha9150/Project-Youtubeclone.git
 
@@ -63,15 +63,16 @@ npm start
 cd Frontend
 yarn start
 
-🎥 Video Demo
+ Video Demo
 
-Watch the project demo[Watch the demo]:
-https://drive.google.com/file/d/18pywzbX5lLMFwzWt6Vw_93xqsGaWfSh_/view?usp=drive_link
-https://drive.google.com/file/d/1nYGDPdINhtyaWlGmeqv6YWBvLO8HykJ7/view?usp=drive_link
+## Video Demo  
+
+Watch the project demo:  
+ [Demo Video 1](https://drive.google.com/file/d/18pywzbX5lLMFwzWt6Vw_93xqsGaWfSh_/view?usp=drive_link)  
+ [Demo Video 2](https://drive.google.com/file/d/1nYGDPdINhtyaWlGmeqv6YWBvLO8HykJ7/view?usp=drive_link)  
 
 
-
-🔧 Technologies Used
+ Technologies Used
 
     Node.js
 
@@ -88,4 +89,4 @@ https://drive.google.com/file/d/1nYGDPdINhtyaWlGmeqv6YWBvLO8HykJ7/view?usp=drive
     https://project-youtubeclone-backend.onrender.com
     
     Frontend Depoly
-    project-youtubeclone-eight.vercel.app
+    project-youtubeclone-dx01cvn0j-anitha9150s-projects.vercel.app
