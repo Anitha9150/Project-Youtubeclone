@@ -45,7 +45,7 @@ A full-stack YouTube Clone built using the MERN stack (MongoDB, Express, React, 
 
 ###  Clone the Repository
 ```sh
-git clone frontend: https://github.com/Anitha9150/Project-Youtubeclone.git
+git clone frontend: https://github.com/Anitha9150/Youtubeclone.git
 backend: https://github.com/Anitha9150/Project-Youtubeclone.git
 
 
